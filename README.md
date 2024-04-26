@@ -2,7 +2,7 @@
 
 <p> Welcome to InterviewAI! </p>
 
-<a href="https://interviewai.netlify.app/">Visit Now!</a>
+<a href="https://interviewai.netlify.app/" target="_blank">Visit Now!</a>
 
 <h2>Technologies Used</h2>
 
@@ -13,4 +13,4 @@
   <li>JavaScript </li>
 </ul>
 
-<h3>Developed By <a href="https://pcportfolio.netlify.app/">@Prashant Chaute</a> </h3>
+<h3>Developed By <a href="https://pcportfolio.netlify.app/" target="_blank">@Prashant Chaute</a> </h3>
